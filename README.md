@@ -1,1 +1,1 @@
-# JS-Task-1
+# JS / Module 2
